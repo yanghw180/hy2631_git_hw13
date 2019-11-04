@@ -4,3 +4,5 @@ id,name,type,unit_sells_price,unit_purchase_price
 0003,sports T-shirt,clothes,4000,2800
 0004,kitchen knife,kitchen supplies,3000,2800
 0007,grater(add in master),kitchen supplies,880,790
+0005,pressure cooker(new added in feature1),kitchen supplies,6800,5000
+0006,fork(add in feature1),kitchen supplies,500,200
